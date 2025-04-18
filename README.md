@@ -1,7 +1,7 @@
 ## Hi, I'm Laura Anna 👋
 
 <p align="left"> <img src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gifhttps://komarev.com/ghpvc/?username=tumusk&label=Profile%20views&color=0e75b6&style=flat" alt="tumusk" /> </p>
-🔥 Data science Enthusiast | 💻💻 SQL & Excel | 💡Power BI and Tableau | 💥Python<br/>
+🔥 Data analyst\scientist | 💻💻 SQL & Excel | 💡Power BI and Tableau | 💥Python<br/>
 👩🏾‍🎓Studied Statistics from Uganda Christian Univeristy📚<br/>
 Currently learning Machine Learning😁 and building my data science portfolio🤹🏽‍♀<br/>
 ☺ My LinkedIn link: www.linkedin.com/in/
